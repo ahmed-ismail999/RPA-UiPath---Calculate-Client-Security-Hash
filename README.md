@@ -1,4 +1,4 @@
-# RPA UiPath---Calculate Client Security Hash
+# RPA UiPath--Calculate Client Security Hash
 
 This RPA (Robotic Process Automation) project automates the process of working with **ACME System 1** to manage work items and perform client data processing. The project is divided into two main components: the **Dispatcher** and the **Performer**.
 
